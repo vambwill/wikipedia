@@ -84,6 +84,7 @@ hr {
 
 .text-apresentacao {
     display: flex;
+    margin-bottom: -20px;
 }
 
 
